@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        char = 'A';
+        char = 'X';
 	int x=53;
 	int y=45;
     }
