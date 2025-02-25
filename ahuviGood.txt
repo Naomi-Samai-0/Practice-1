@@ -4,11 +4,7 @@ class Program
 {
     static void Main()
     {
-<<<<<<< HEAD
         char = 'A';
-=======
-        char ='N';
->>>>>>> 472256e609b41ebc7ac59baf3e1189dd1706b475
 	int x=53;
 	int y=45;
     }
