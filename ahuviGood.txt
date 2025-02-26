@@ -3,8 +3,8 @@ using System;
 class Program
 {
     static void Main()
-    {
-        char ='w';
+    {       
+    char = 'X';
 	int x=53;
 	int y=45;
     }
